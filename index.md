@@ -7,4 +7,4 @@ layout: default
 
 # Контакты
 - email: <st153585@student.spbu.ru>
-- max: [<MAX>](https://clck.ru/3W3yD4)
+- max: [MAX](https://clck.ru/3W3yD4)

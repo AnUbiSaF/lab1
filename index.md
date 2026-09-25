@@ -8,3 +8,9 @@ layout: default
 # Контакты
 - email: <st153585@student.spbu.ru>
 - max: [MAX](https://clck.ru/3W3yD4)
+
+# Одногруппники 
+- Артамонов Сергей Владимирович
+- asvtiltewww@proton.me
+- [Github](https://github.com/awshimself/spbu_laboratory2)
+
